@@ -1,4 +1,4 @@
-We modified this repo to fit our experiments for the paper <a href="https://openreview.net/pdf?id=9hjVoPWPnh">Machine Unlearning for Image-to-Image Generative Models</a> (ICLR 2024).
+We modified this repo to reproduce the experiments for the paper <a href="https://openreview.net/pdf?id=9hjVoPWPnh">Machine Unlearning for Image-to-Image Generative Models</a> (ICLR 2024).
 
 
 # clean-fid for Evaluating Generative Models
